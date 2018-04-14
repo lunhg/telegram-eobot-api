@@ -1,0 +1,38 @@
+{
+  "name": "telegram-eobot-api",
+  "version": "0.0.1",
+  "author": "Guilherme Lunhani",
+  "description": "Eobot API mining with Telegram API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "eobot",
+    "mining"
+  ],
+  "license": "GPL-3.0",
+  "maintainers": [
+    "lunhg"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lunhg/telegram-eobot-api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lunhg/telegram-eobot-api/issues"
+  },
+  "homepage": "https://github.com/lunhg/telegram-eobot-api#readme",
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "dotenv": "^5.0.1",
+    "foreach": "^2.0.5",
+    "node-schedule": "^1.3.0",
+    "node-telegram-bot-api": "^0.30.0",
+    "supertest": "^3.0.0"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {}
+}
