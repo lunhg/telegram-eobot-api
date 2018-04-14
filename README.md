@@ -39,5 +39,14 @@ edit the `eobot-cron` file to fits your needs
   - `/mining` - show the current mining mode
   - `/mining_mode <COIN | DIVERSIFY>` - set the current mining mode (where <COIN> is the manual way to set one mining mode and <DIVERSIFY> is a strategy defined in `strategy.js` file)
 
-## Donate
+## Donation
 
+Help mantain this project:
+
+  - BTC: `386CjsgCMSXpXmfwPGmN25KqcgcNSdLjds`
+  - BCC: `bitcoincash:qrwfzjkk2wer8l5729uz0ujlufeexqd4mygmu9247z`
+  - ETH: `0x5b4cfd9ccaf7c17b06ecb24edb458950af8e27ea`
+  - LTC: `LUBzwebftpaUxRoxUB4AsgVnW1W8JaDRvs`
+  - DASH: `Xtk4rsa1sXcY1GocfKmqTPf5WkzpddHH6P`
+  - DOGE: `DKaHofqMYra47Em23vYsoWJuLwBffMACCG`
+  - XMR: `44gY6Wmw1hUWZ9sky6JRXAEgxnvA9cUfr8Je24urPSzs8Uo9pJp9vR3WbwaVe4vUMveKAzAiA4j8xgUi29TpKXpm42r5Dy1`
